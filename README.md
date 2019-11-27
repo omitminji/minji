@@ -1,2 +1,2 @@
-# minji
-Great repository names are short and memorable. Need inspiration
+ minji
+Great repository names are short and memorable. Need inspiration is great
